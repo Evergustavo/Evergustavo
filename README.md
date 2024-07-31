@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
     ****  🚀 SKILLS 🚀   ****
-  https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+  &style=for-the-badge à https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
   
