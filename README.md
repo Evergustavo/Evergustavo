@@ -17,5 +17,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
     ****  🚀 SKILLS 🚀   ****
-  &style=for-the-badge-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+  <div style = "display: inline_block"><br/>
+     <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  </div>
+
+    <div style = "display: inline_block"><br/>
+     <img align="center" alt="html5" src="" />
+  </div>
+
+    <div style = "display: inline_block"><br/>
+     <img align="center" alt="html5" src="" />
+  </div>
+
+    <div style = "display: inline_block"><br/>
+     <img align="center" alt="html5" src="" />
+  </div>
+
+    <div style = "display: inline_block"><br/>
+     <img align="center" alt="html5" src="" />
+  </div>
+
+    <div style = "display: inline_block"><br/>
+     <img align="center" alt="html5" src="" />
+  </div>
+
+    <div style = "display: inline_block"><br/>
+     <img align="center" alt="html5" src="" />
+  </div>
+
   
