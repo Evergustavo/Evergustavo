@@ -1,3 +1,4 @@
+![logo](https://github.com/Evergustavo/Evergustavo/blob/main/senai.png)
 ## Hi there 👋
 
 
