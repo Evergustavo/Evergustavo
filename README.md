@@ -1,5 +1,5 @@
 ![logo](https://github.com/Evergustavo/Evergustavo/blob/main/senai.png)
-## Hi there 👋
+## Olá! 👋
 
 ![Evergustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Evergustavo&show_icons=true&theme=synthwave)
 
